@@ -1,0 +1,3 @@
+In der ersten Spalte wird die Sensor ID des Gerätes angezeigtes, welches zur messung genutzt wurde.
+Die CSV zeigt alle Parameter an, welche bei der messung aufgezeichnet wurden.
+Die Zeilen unterscheiden sich im Datum und verschiedenen messungen.
